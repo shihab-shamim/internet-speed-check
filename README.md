@@ -1,12 +1,26 @@
-# React + Vite
+# Internet Speed Test Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Internet Speed Test application that helps users to measure their **Download Speed**, **Upload Speed**, and **Ping** in real-time. The app provides an easy-to-use interface and displays accurate data for users to assess their internet connection.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Measure **Download Speed** in Mbps.
+- Measure **Upload Speed** in Mbps.
+- Display **Ping** (Latency) in ms.
+- Real-time speed monitoring.
+- User-friendly interface.
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **HTML** - Structure of the application.
+- **CSS** - Styling and layout.
+- **JavaScript** - For app logic and speed testing.
+- **React** (if applicable) - For building the user interface.
+- **Node.js** (if applicable) - Backend for API requests.
+- **Speed Test API** - For measuring internet speed (or other external API if you used one).
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/internet-speed-test.git
