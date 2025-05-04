@@ -23,4 +23,5 @@ This is a simple Internet Speed Test application that helps users to measure the
 
 1. Clone this repository:
    ```bash
-  [ git clone https://github.com/your-username/internet-speed-test.git](https://github.com/shihab-shamim/internet-speed-check/tree/main)
+   https://github.com/shihab-shamim/internet-speed-check/edit/main
+
